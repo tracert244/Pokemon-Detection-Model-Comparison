@@ -37,7 +37,7 @@ While Faster R-CNN performs poorly in classification (high false positives), its
 ### Precision-Recall Analysis
 The graph below highlights the significant performance gap. **YOLOv11s (Green)** and **RT-DETR (Red)** maintain high precision across all recall levels. In contrast, the **Faster R-CNN (Blue)** curve suffers a sharp drop, indicating a high rate of false positives where the model mistakes background elements for Pokémon.
 
-<img src="results/__results___11_0.jpg" alt="Precision Recall Curve" width="650">
+<img src="results/__results___11_0.png" alt="Precision Recall Curve" width="650">
 
 ### Confusion Matrices Comparison
 By analyzing the confusion matrices side-by-side, we can pinpoint the specific failure modes of each architecture:
