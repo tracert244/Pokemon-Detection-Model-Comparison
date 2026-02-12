@@ -4,9 +4,11 @@ This project presents a comparative study of object detection architectures appl
 
 The study analyzes the trade-offs between inference speed, geometric localization quality, and classification precision to determine the optimal architecture for non-photorealistic domains.
 
-<img src="assets/demo.gif" alt="Real-time tracking comparison" width="700">
+<p align="center">
+  <img src="results/demo.gif" alt="Real-time tracking comparison" width="900">
+</p>
 <br>
-*(Real-time tracking comparison: YOLOv11s providing stable detection)*
+
 
 ## 1. Performance Benchmarks
 
@@ -37,7 +39,10 @@ While Faster R-CNN performs poorly in classification (high false positives), its
 ### Precision-Recall Analysis
 The graph below highlights the significant performance gap. **YOLOv11s (Green)** and **RT-DETR (Red)** maintain high precision across all recall levels. In contrast, the **Faster R-CNN (Blue)** curve suffers a sharp drop, indicating a high rate of false positives where the model mistakes background elements for Pokémon.
 
-<img src="results/__results___11_0.png" alt="Precision Recall Curve" width="650">
+<p align="center">
+   <img src="results/__results___11_0.png" alt="Precision Recall Curve" width="650">
+</p>
+<br>
 
 ### Confusion Matrices Comparison
 By analyzing the confusion matrices side-by-side, we can pinpoint the specific failure modes of each architecture:
@@ -50,9 +55,10 @@ By analyzing the confusion matrices side-by-side, we can pinpoint the specific f
 ### Qualitative Results (YOLOv11s)
 Below are detection samples from the best-performing model on the validation batch. The bounding boxes are tight, and confidence scores remain high even for stylized artwork and varying poses.
 
-<img src="results/val_batch2_labels_yolo.jpg" alt="YOLOv11 Detection Samples" width="500">
-
----
+<p align="center">
+   <img src="results/val_batch2_labels_yolo.jpg" alt="YOLOv11 Detection Samples" width="500">
+</p>
+<br>
 
 ## 3. Methodology
 
@@ -75,7 +81,7 @@ We utilized a dataset from Roboflow Universe containing **9 distinct classes**. 
 ### Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone [https://github.com/ricca200xx/Pokemon-Detection-Model-Comparison.git](https://github.com/ricca200xx/Pokemon-Detection-Model-Comparison.git)
+git clone https://github.com/ricca200xx/Pokemon-Detection-Model-Comparison.git
 cd Pokemon-Detection-Model-Comparison
 pip install -r requirements.txt
 ```
